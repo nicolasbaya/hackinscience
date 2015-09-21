@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 21 13:40:03 2015
+Created on Mon Sep 21 13:48:45 2015
 
 @author: nico
 """
-print("Hello world", 42)
+print(list(["Hello world", 42]))
